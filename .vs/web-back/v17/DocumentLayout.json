@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web-back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\migrations\\20241114004428_init_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\migrations\\20241114004428_init_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\entities\\quizzlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\entities\\quizzlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\entities\\videolesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\entities\\videolesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\controllers\\categorycoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\controllers\\categorycoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\entities\\grouplesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\entities\\grouplesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\data\\ipaginationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\data\\ipaginationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|d:\\web-back\\web-back\\data\\jwtdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A1246-EC5E-4930-8F11-25F43DFF7A94}|web-back\\web-back.csproj|solutionrelative:web-back\\data\\jwtdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizzLesson.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Entities\\QuizzLesson.cs",
+              "RelativeDocumentMoniker": "web-back\\Entities\\QuizzLesson.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Entities\\QuizzLesson.cs",
+              "RelativeToolTip": "web-back\\Entities\\QuizzLesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:56:11.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "web-back\\Data\\DataContext.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Data\\DataContext.cs",
+              "RelativeToolTip": "web-back\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:14:29.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "web-back\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "web-back\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAADwv2kAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:30:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\web-back\\web-back\\appsettings.json",
+              "RelativeDocumentMoniker": "web-back\\appsettings.json",
+              "ToolTip": "D:\\web-back\\web-back\\appsettings.json",
+              "RelativeToolTip": "web-back\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T06:37:55.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryCourseController.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Controllers\\CategoryCourseController.cs",
+              "RelativeDocumentMoniker": "web-back\\Controllers\\CategoryCourseController.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Controllers\\CategoryCourseController.cs",
+              "RelativeToolTip": "web-back\\Controllers\\CategoryCourseController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:58:51.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "web-back\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Controllers\\UserController.cs",
+              "RelativeToolTip": "web-back\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:19:21.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241114004428_init_2.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Migrations\\20241114004428_init_2.cs",
+              "RelativeDocumentMoniker": "web-back\\Migrations\\20241114004428_init_2.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Migrations\\20241114004428_init_2.cs",
+              "RelativeToolTip": "web-back\\Migrations\\20241114004428_init_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:44:29.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupLesson.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Entities\\GroupLesson.cs",
+              "RelativeDocumentMoniker": "web-back\\Entities\\GroupLesson.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Entities\\GroupLesson.cs",
+              "RelativeToolTip": "web-back\\Entities\\GroupLesson.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:22:46.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Entities\\Banner.cs",
+              "RelativeDocumentMoniker": "web-back\\Entities\\Banner.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Entities\\Banner.cs",
+              "RelativeToolTip": "web-back\\Entities\\Banner.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:42:06.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "web-back\\Entities\\Lesson.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Entities\\Lesson.cs",
+              "RelativeToolTip": "web-back\\Entities\\Lesson.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA5wDEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:06:59.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoLesson.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Entities\\VideoLesson.cs",
+              "RelativeDocumentMoniker": "web-back\\Entities\\VideoLesson.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Entities\\VideoLesson.cs",
+              "RelativeToolTip": "web-back\\Entities\\VideoLesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:12:39.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "web-back\\Entities\\Status.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Entities\\Status.cs",
+              "RelativeToolTip": "web-back\\Entities\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:24:32.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPaginationRequestDto.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Data\\IPaginationRequestDto.cs",
+              "RelativeDocumentMoniker": "web-back\\Data\\IPaginationRequestDto.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Data\\IPaginationRequestDto.cs",
+              "RelativeToolTip": "web-back\\Data\\IPaginationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:12:01.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "web-back\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "web-back\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:39:11.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "web-back\\Entities\\Post.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Entities\\Post.cs",
+              "RelativeToolTip": "web-back\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:57:57.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Entities\\Answer.cs",
+              "RelativeDocumentMoniker": "web-back\\Entities\\Answer.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Entities\\Answer.cs",
+              "RelativeToolTip": "web-back\\Entities\\Answer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:05:50.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtData.cs",
+              "DocumentMoniker": "D:\\web-back\\web-back\\Data\\JwtData.cs",
+              "RelativeDocumentMoniker": "web-back\\Data\\JwtData.cs",
+              "ToolTip": "D:\\web-back\\web-back\\Data\\JwtData.cs",
+              "RelativeToolTip": "web-back\\Data\\JwtData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:14:34.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
